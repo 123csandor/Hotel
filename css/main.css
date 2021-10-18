@@ -51,7 +51,7 @@ padding-left: 50px !important;
 }
 
 .rowheight{
-  height: 600px;
+  height: 450px;
   margin-right: 0;
  margin-left: 0;
 }
@@ -66,4 +66,18 @@ padding-left: 50px !important;
 
 .logo2{
   width: 10vw;
+}
+#hehe{
+  font-family: 'Scheherazade New', serif;
+  color: white;
+  font-size: 40px;
+  padding-right: 50px !important;
+  padding-left: 50px !important;
+}
+
+.custom2{
+  color: white;
+  font-size: 30px;
+  font-family: 'Scheherazade New', serif;
+  text-align: center;
 }
