@@ -1,0 +1,69 @@
+.header1{
+
+  opacity: 0.8;
+}
+.navbar {
+  margin-right: 45px !important;
+	margin-left: 45px !important;
+	padding-top: 25px !important;
+  padding-bottom: 25px !important;
+}
+
+.bottom{
+   border-bottom: 2px solid white;
+}
+
+.navbar-light .navbar-nav .nav-link{
+font-family: 'Scheherazade New', serif;
+color: white;
+font-size: 40px;
+padding-right: 50px !important;
+padding-left: 50px !important;
+}
+
+.center{
+ border: 2px solid white;
+}
+.height{
+  height: 250px;
+  background-color: #C32F3D;
+}
+.newcolor{
+  background-color: #B32A38;
+}
+.newww {
+	background: linear-gradient(-45deg, #130614, #8E2A8B, #7D2587, #005A9F);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.rowheight{
+  height: 600px;
+  margin-right: 0;
+ margin-left: 0;
+}
+
+.padding{
+  padding-top: 25px;
+}
+
+.navbar-custom {
+    background-color: #00205B;
+}
+
+.logo2{
+  width: 10vw;
+}

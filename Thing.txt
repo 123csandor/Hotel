@@ -1,0 +1,20 @@
+Index.html
+I'm going to have a button on index.html and its going to link to orderroom.html
+Button at the top on the nav bar that goes to orderrom.html and menu.html
+
+orderroom.html
+Checked boxs for which room you want which will update to red when confirmed with the Hotel Object. This will also get the total cost.
+
+menu.html
+Check boxs for which food you want and the amount/cost for your food when confirmed with the Food Order object.
+
+Objects:
+Hotel
+- How many rooms order
+- Total
+- room number
+
+Food order
+- Total
+- What food order
+- (get) room number
